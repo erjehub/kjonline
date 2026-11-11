@@ -18,7 +18,7 @@ b/* ================================================================
    Saat memperbarui aplikasi, JANGAN menimpa file ini.
    ================================================================ */
 window.APP_CONFIG = {
-  proxy: 'cobaapi.muhammadrahman02.workers.dev',            // contoh: 'https://kelas-langit-api.namaanda.workers.dev'
+  proxy: 'https://cobaapi.muhammadrahman02.workers.dev',            // contoh: 'https://kelas-langit-api.namaanda.workers.dev'
   github: {
     owner: 'erjehub',          // contoh: 'erje-guru'  (username GitHub Anda)
     repo: 'kjonline_data',           // contoh: 'kelas-langit-data'
