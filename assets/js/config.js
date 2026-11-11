@@ -1,4 +1,4 @@
-/* ================================================================
+b/* ================================================================
    KONFIGURASI KELAS LANGIT
    ----------------------------------------------------------------
    CARA YANG DISARANKAN — perantara Cloudflare:
@@ -18,10 +18,10 @@
    Saat memperbarui aplikasi, JANGAN menimpa file ini.
    ================================================================ */
 window.APP_CONFIG = {
-  proxy: '',            // contoh: 'https://kelas-langit-api.namaanda.workers.dev'
+  proxy: 'cobaapi.muhammadrahman02.workers.dev',            // contoh: 'https://kelas-langit-api.namaanda.workers.dev'
   github: {
-    owner: '',          // contoh: 'erje-guru'  (username GitHub Anda)
-    repo: '',           // contoh: 'kelas-langit-data'
+    owner: 'erjehub',          // contoh: 'erje-guru'  (username GitHub Anda)
+    repo: 'kjonline_data',           // contoh: 'kelas-langit-data'
     branch: 'main',     // branch repositori data
     path: 'data'        // folder tempat file JSON disimpan
   }
